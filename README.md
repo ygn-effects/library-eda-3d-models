@@ -37,12 +37,18 @@ We adhere to a predetermined naming convention for ease of navigation and identi
 
 `<footprint-type>-<category>-<component>-<specifics>-<...>.<file-extension>`
 
-The specifics part is optional.
+- **footprint-type** can be either:
+    - **th**: for through-hole components.
+    - **smd**: for surface-mounted devices.
+- **category**: typically relates to the name of the parent folder, aligning with the repository structure's logic.
+- **specifics**: this is optional and depends on the modeled part's package type:
+    - **generic package**: any noteworthy detail that allows to quickly identify the correct model. Specifics can contain multiple sections (see the example below).
+    - **specific model**: use the MPN of illustrated part.
 
 Examples:
 - A generic model: `smd-resistor-film-0603.step`.
-- A generic model with specificities: `smd-capacitor-elec-d-6.3x5.4` (`d` representing the package type and `6.3x5.4` the diameter and height of the package).
-- A model tied to a specific MPN: `th-connector-jack-acjs-mhdc` (`acjs-mhdc` being the part's MPN).
+- A generic model with specificities: `smd-capacitor-elec-d-6.3x5.4.step` (`d` representing the package type and `6.3x5.4` the diameter and height of the package).
+- A model tied to a specific MPN: `th-connector-jack-acjs-mhdc.step` (`acjs-mhdc` being the part's MPN).
 
 ## Getting Started
 
