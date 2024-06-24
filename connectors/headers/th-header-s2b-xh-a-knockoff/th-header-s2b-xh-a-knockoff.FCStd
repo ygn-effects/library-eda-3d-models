@@ -30,7 +30,7 @@
             <String value=""/>
         </Property>
         <Property name="LastModifiedDate" type="App::PropertyString" status="16777217">
-            <String value="2024-06-24T19:04:55Z"/>
+            <String value="2024-06-24T19:08:07Z"/>
         </Property>
         <Property name="License" type="App::PropertyString" status="1">
             <String value="All rights reserved"/>
@@ -37071,7 +37071,7 @@ So
 AAAAAA==
 8|4|B|ScaleList
 AAAAAA==
-185865|185865|A|GuiDocument.xml
+185867|185867|A|GuiDocument.xml
 <?xml version='1.0' encoding='utf-8'?>
 <!--
  FreeCAD Document, see http://www.freecad.org for more information...
@@ -37448,10 +37448,10 @@ AAAAAA==
                     <Integer value="0"/>
                 </Property>
                 <Property name="ShapeColor" type="App::PropertyColor" status="9">
-                    <PropertyColor value="1651680256"/>
+                    <PropertyColor value="3739147776"/>
                 </Property>
                 <Property name="ShapeMaterial" type="App::PropertyMaterial" status="9">
-                    <PropertyMaterial ambientColor="858993408" diffuseColor="1651680256" specularColor="0" emissiveColor="0" shininess="0.2000000029802322" transparency="0.0000000000000000"/>
+                    <PropertyMaterial ambientColor="858993408" diffuseColor="3739147776" specularColor="0" emissiveColor="0" shininess="0.2000000029802322" transparency="0.0000000000000000"/>
                 </Property>
                 <Property name="ShowInTree" type="App::PropertyBool" status="9">
                     <Bool value="true"/>
@@ -37568,10 +37568,10 @@ AAAAAA==
                     <Integer value="0"/>
                 </Property>
                 <Property name="ShapeColor" type="App::PropertyColor" status="9">
-                    <PropertyColor value="1651680256"/>
+                    <PropertyColor value="3739147776"/>
                 </Property>
                 <Property name="ShapeMaterial" type="App::PropertyMaterial" status="9">
-                    <PropertyMaterial ambientColor="858993408" diffuseColor="1651680256" specularColor="0" emissiveColor="0" shininess="0.2000000029802322" transparency="0.0000000000000000"/>
+                    <PropertyMaterial ambientColor="858993408" diffuseColor="3739147776" specularColor="0" emissiveColor="0" shininess="0.2000000029802322" transparency="0.0000000000000000"/>
                 </Property>
                 <Property name="ShowInTree" type="App::PropertyBool" status="9">
                     <Bool value="true"/>
@@ -37743,10 +37743,10 @@ AAAAAA==
                     <Integer value="0"/>
                 </Property>
                 <Property name="ShapeColor" type="App::PropertyColor" status="9">
-                    <PropertyColor value="1651680256"/>
+                    <PropertyColor value="3739147776"/>
                 </Property>
                 <Property name="ShapeMaterial" type="App::PropertyMaterial" status="9">
-                    <PropertyMaterial ambientColor="858993408" diffuseColor="1651680256" specularColor="0" emissiveColor="0" shininess="0.2000000029802322" transparency="0.0000000000000000"/>
+                    <PropertyMaterial ambientColor="858993408" diffuseColor="3739147776" specularColor="0" emissiveColor="0" shininess="0.2000000029802322" transparency="0.0000000000000000"/>
                 </Property>
                 <Property name="ShowInTree" type="App::PropertyBool" status="9">
                     <Bool value="true"/>
@@ -37822,10 +37822,10 @@ AAAAAA==
                     <Integer value="0"/>
                 </Property>
                 <Property name="ShapeColor" type="App::PropertyColor" status="9">
-                    <PropertyColor value="1651680256"/>
+                    <PropertyColor value="3739147776"/>
                 </Property>
                 <Property name="ShapeMaterial" type="App::PropertyMaterial" status="9">
-                    <PropertyMaterial ambientColor="858993408" diffuseColor="1651680256" specularColor="0" emissiveColor="0" shininess="0.2000000029802322" transparency="0.0000000000000000"/>
+                    <PropertyMaterial ambientColor="858993408" diffuseColor="3739147776" specularColor="0" emissiveColor="0" shininess="0.2000000029802322" transparency="0.0000000000000000"/>
                 </Property>
                 <Property name="ShowInTree" type="App::PropertyBool" status="9">
                     <Bool value="true"/>
@@ -37941,10 +37941,10 @@ AAAAAA==
                     <Integer value="0"/>
                 </Property>
                 <Property name="ShapeColor" type="App::PropertyColor" status="9">
-                    <PropertyColor value="1651680256"/>
+                    <PropertyColor value="3739147776"/>
                 </Property>
                 <Property name="ShapeMaterial" type="App::PropertyMaterial" status="9">
-                    <PropertyMaterial ambientColor="858993408" diffuseColor="1651680256" specularColor="0" emissiveColor="0" shininess="0.2000000029802322" transparency="0.0000000000000000"/>
+                    <PropertyMaterial ambientColor="858993408" diffuseColor="3739147776" specularColor="0" emissiveColor="0" shininess="0.2000000029802322" transparency="0.0000000000000000"/>
                 </Property>
                 <Property name="ShowInTree" type="App::PropertyBool" status="9">
                     <Bool value="true"/>
@@ -40200,10 +40200,10 @@ AAAAAA==
                     <Integer value="0"/>
                 </Property>
                 <Property name="ShapeColor" type="App::PropertyColor" status="1">
-                    <PropertyColor value="1651680256"/>
+                    <PropertyColor value="3739147776"/>
                 </Property>
                 <Property name="ShapeMaterial" type="App::PropertyMaterial" status="1">
-                    <PropertyMaterial ambientColor="858993408" diffuseColor="3435973632" specularColor="0" emissiveColor="0" shininess="0.2000000029802322" transparency="0.0000000000000000"/>
+                    <PropertyMaterial ambientColor="858993408" diffuseColor="3739147776" specularColor="0" emissiveColor="0" shininess="0.2000000029802322" transparency="0.0000000000000000"/>
                 </Property>
                 <Property name="ShowInTree" type="App::PropertyBool" status="1">
                     <Bool value="true"/>
@@ -40297,35 +40297,35 @@ AAAAAA==
             </Properties>
         </ViewProvider>
     </ViewProviderData>
-    <Camera settings="OrthographicCamera {&#10;  viewportMapping ADJUST_CAMERA&#10;  position 34.068146 -35.372677 17.51033&#10;  orientation 0.45995969 -0.46997082 0.75336874  3.1085756&#10;  nearDistance -26.920986&#10;  farDistance 128.26376&#10;  aspectRatio 1&#10;  focalDistance 44.933186&#10;  height 44.933186&#10;&#10;}&#10;"/>
+    <Camera settings="OrthographicCamera {&#10;  viewportMapping ADJUST_CAMERA&#10;  position -5.1002679 -4.2743988 17.910305&#10;  orientation -0.17677546 -0.0843281 0.98063201  3.2153072&#10;  nearDistance -15.915193&#10;  farDistance 48.174335&#10;  aspectRatio 1&#10;  focalDistance 9.0718555&#10;  height 9.0718555&#10;&#10;}&#10;"/>
 </Document>
 
 12|8|B|DiffuseColor
-AQAAAACkcmI=
+AQAAAADe3t4=
 12|8|B|LineColorArray
 AQAAAAAZGRk=
 12|8|B|PointColorArray
 AQAAAAAZGRk=
 12|8|B|DiffuseColor1
-AQAAAACkcmI=
+AQAAAADe3t4=
 12|8|B|LineColorArray1
 AQAAAAAZGRk=
 12|8|B|PointColorArray1
 AQAAAAAZGRk=
 12|8|B|DiffuseColor2
-AQAAAACkcmI=
+AQAAAADe3t4=
 12|8|B|LineColorArray2
 AQAAAAAZGRk=
 12|8|B|PointColorArray2
 AQAAAAAZGRk=
 12|8|B|DiffuseColor3
-AQAAAACkcmI=
+AQAAAADe3t4=
 12|8|B|LineColorArray3
 AQAAAAAZGRk=
 12|8|B|PointColorArray3
 AQAAAAAZGRk=
 12|8|B|DiffuseColor4
-AQAAAACkcmI=
+AQAAAADe3t4=
 12|8|B|LineColorArray4
 AQAAAAAZGRk=
 12|8|B|PointColorArray4
@@ -40433,7 +40433,7 @@ AQAAAAAZGRk=
 12|8|B|PointColorArray21
 AQAAAAAZGRk=
 12|8|B|DiffuseColor22
-AQAAAACkcmI=
+AQAAAADe3t4=
 12|8|B|LineColorArray22
 AQAAAAAZGRk=
 12|8|B|PointColorArray22
